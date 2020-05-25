@@ -1,6 +1,5 @@
 # Ejemplo de autenticación en Python usando Auth0
 
-This sample demonstrates how to add authentication to a Python web app using Auth0.
 Este ejemplo muestra como añadir autenticación a una web python usando Auth0.
 
 # Ejecutar la App
